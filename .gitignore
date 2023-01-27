@@ -1,0 +1,4 @@
+# Ignore the utility folder
+Utility
+# Ignore the .DS_Store folder
+.DS_Store
