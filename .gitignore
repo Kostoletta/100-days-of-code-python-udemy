@@ -2,3 +2,9 @@
 Utility
 # Ignore the .DS_Store folder
 .DS_Store
+# Ignore all .idea folders
+.idea
+# Ignore all venv folders
+venv
+# Ignore all __pycache__ folders
+__pycache__
